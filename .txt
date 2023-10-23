@@ -1,0 +1,17 @@
+ i>your_script.py
+ ii>- templates/
+    - index.html
+    
+Note:- Make sure the index.html file is inside the templates folder
+
+* To run the code, make sure you have Flask installed (pip install flask)
+  and then execute the script. 
+* The application will be accessible at http://localhost:5000. When you enter text in the form 
+  and submit it, the stored text will be updated and displayed on the webpage.
+
+
+
+
+
+
+
